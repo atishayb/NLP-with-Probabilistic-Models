@@ -1,2 +1,2 @@
-# NLP-POS-tagging
-Part of speech tagging using Viterbi Algorithm and Hidden Markov Models.
+# NLP-with-Probablistic-Models
+All assignments and notes for the second course in the NLP specialization at Deeplearning.ai
